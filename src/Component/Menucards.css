@@ -1,0 +1,18 @@
+.card1{
+    background-image: url("/src/images/drinks.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.card2{
+    background-image: url("/src/images/dinner.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.card3{
+    background-image: url("/src/images/lunch.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

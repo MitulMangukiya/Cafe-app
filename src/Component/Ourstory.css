@@ -1,0 +1,10 @@
+.our-story-main{
+    background-image: url("/src/images/ourstorybg2.png");
+    background-position: right;
+    background-repeat: no-repeat;
+}
+.our-story{
+    background-image: url("/src/images/ourstorybg1.png");
+    background-position: left;
+    background-repeat: no-repeat
+}   

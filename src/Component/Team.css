@@ -1,0 +1,12 @@
+.content{
+    transition: .4s ease;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    overflow: hidden;
+    background: rgba(0,0,0,0.5);
+}
+.team-div:hover .content{
+    height: 100%;
+}

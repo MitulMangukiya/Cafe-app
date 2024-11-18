@@ -1,0 +1,6 @@
+.service{
+    background-image: url("/src/images/ourserviceimg.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
